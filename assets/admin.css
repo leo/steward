@@ -1,0 +1,16 @@
+.steward-key {
+	letter-spacing: 0.09em;
+	cursor: copy;
+}
+
+.steward-key:focus {
+	outline: none;
+}
+
+@media (min-width: 670px) {
+
+	.steward-key {
+		margin-left: 10px;
+	}
+	
+}
